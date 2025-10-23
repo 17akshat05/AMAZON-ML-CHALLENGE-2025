@@ -112,4 +112,5 @@ This project is licensed under the **Apache 2.0 License**, aligning with challen
 
 ---
 
-**Contact**: For issues or improvements, open a GitHub issue or contact [your-email@example.com].
+INSTAGRAM - https://www.instagram.com/17akshat05
+linkedin- https://www.linkedin.com/in/akshat-jain17/
